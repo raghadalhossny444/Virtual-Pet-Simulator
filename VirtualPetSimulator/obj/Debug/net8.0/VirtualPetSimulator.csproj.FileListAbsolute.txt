@@ -1,0 +1,14 @@
+C:\Users\USER\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.exe
+C:\Users\USER\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.deps.json
+C:\Users\USER\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.runtimeconfig.json
+C:\Users\USER\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.dll
+C:\Users\USER\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.pdb
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.AssemblyInfoInputs.cache
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.AssemblyInfo.cs
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.csproj.CoreCompileInputs.cache
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.dll
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\refint\VirtualPetSimulator.dll
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.pdb
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.genruntimeconfig.cache
+C:\Users\USER\VirtualPetSimulator\obj\Debug\net8.0\ref\VirtualPetSimulator.dll
